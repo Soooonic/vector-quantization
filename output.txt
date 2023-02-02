@@ -1,0 +1,16 @@
+Code Book: 
+00
+17 17 
+17 17 
+11
+228 228 
+228 228 
+01
+88 88 
+88 89 
+10
+162 162 
+162 162 
+
+OriginalSize: 10485760 bits.
+CompressedSize: 655488 bits.
